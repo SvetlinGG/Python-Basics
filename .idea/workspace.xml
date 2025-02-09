@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/first_step_in_coding/circle_area_and_perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_step_in_coding/weather_forecast_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_statement_exercise/seconds_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
     "Python.house_painting.executor": "Run",
     "Python.number_from_100_to_200.executor": "Run",
     "Python.repainting.executor": "Run",
+    "Python.seconds_sum.executor": "Run",
     "Python.serials.executor": "Run",
     "Python.speed_info.executor": "Run",
     "Python.sybirane.executor": "Run",
@@ -208,7 +208,7 @@
       <workItem from="1738284473302" duration="10000000" />
       <workItem from="1738366605895" duration="833000" />
       <workItem from="1738367801209" duration="50227000" />
-      <workItem from="1738692972105" duration="42704000" />
+      <workItem from="1738692972105" duration="45827000" />
     </task>
     <servers />
   </component>
@@ -240,6 +240,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$trapezoid.coverage" NAME="trapezoid Coverage Results" MODIFIED="1738938248047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$area_of_figures.coverage" NAME="area_of_figures Coverage Results" MODIFIED="1738586983113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
     <SUITE FILE_PATH="coverage/Python_Basics$agency_profit.coverage" NAME="agency_profit Coverage Results" MODIFIED="1738587621300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basics_Exam" />
-    <SUITE FILE_PATH="coverage/Python_Basics$weather_forecast_2.coverage" NAME="weather_forecast_2 Coverage Results" MODIFIED="1739025427048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$weather_forecast_2.coverage" NAME="weather_forecast_2 Coverage Results" MODIFIED="1739025940431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$seconds_sum.coverage" NAME="seconds_sum Coverage Results" MODIFIED="1739141289960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
   </component>
 </project>
