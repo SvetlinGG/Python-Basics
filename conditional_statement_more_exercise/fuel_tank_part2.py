@@ -21,7 +21,7 @@ if fuel_quantity < 20:
         fuel_price = fuel_quantity * 2.33
     elif fuel == 'Gas' and club_card == 'No':
         fuel_price = fuel_quantity * 0.93
-        
+
 if fuel_quantity >= 20 or fuel_quantity <= 25:
     if fuel == 'Gasoline' and club_card == 'No':
         fuel_price = (fuel_quantity * 2.22) * 0.92
