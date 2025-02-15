@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional_statement_advanced_exercise/summer_outfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_statement_advanced_exercise/new_house.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditional_statement_advanced_lab/trade_commissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditional_statement_advanced_lab/trade_commissions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
     "Python.house_painting.executor": "Run",
     "Python.invalid_number.executor": "Run",
     "Python.lunch_break.executor": "Run",
+    "Python.new_house.executor": "Run",
     "Python.number_from_100_to_200.executor": "Run",
     "Python.number_in_range.executor": "Run",
     "Python.oscars.executor": "Run",
@@ -90,6 +90,7 @@
     "Python.sleepy_tom_cat.executor": "Run",
     "Python.small_shop.executor": "Run",
     "Python.speed_info.executor": "Run",
+    "Python.summer_outfit.executor": "Run",
     "Python.sybirane.executor": "Run",
     "Python.time_plus_15_minutes.executor": "Run",
     "Python.toy_shop.executor": "Run",
@@ -241,7 +242,7 @@
       <workItem from="1738284473302" duration="10000000" />
       <workItem from="1738366605895" duration="833000" />
       <workItem from="1738367801209" duration="50227000" />
-      <workItem from="1738692972105" duration="122804000" />
+      <workItem from="1738692972105" duration="124903000" />
     </task>
     <servers />
   </component>
@@ -268,6 +269,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$oscars.coverage" NAME="oscars Coverage Results" MODIFIED="1739484290935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basics_Exam" />
     <SUITE FILE_PATH="coverage/Python_Basics$flower_shop.coverage" NAME="flower_shop Coverage Results" MODIFIED="1739401179864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$trapezoid.coverage" NAME="trapezoid Coverage Results" MODIFIED="1738938248047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$new_house.coverage" NAME="new_house Coverage Results" MODIFIED="1739659798405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$add_bagage.coverage" NAME="add_bagage Coverage Results" MODIFIED="1739466425713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basics_Exam" />
     <SUITE FILE_PATH="coverage/Python_Basics$agency_profit.coverage" NAME="agency_profit Coverage Results" MODIFIED="1738587621300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basics_Exam" />
     <SUITE FILE_PATH="coverage/Python_Basics$toy_shop.coverage" NAME="toy_shop Coverage Results" MODIFIED="1739215760503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
@@ -276,6 +278,7 @@
     <SUITE FILE_PATH="coverage/Untitled$repainting.coverage" NAME="repainting Coverage Results" MODIFIED="1738285469771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$guess_password.coverage" NAME="guess_password Coverage Results" MODIFIED="1738409578106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
     <SUITE FILE_PATH="coverage/Python_Basics$world_swimming_record.coverage" NAME="world_swimming_record Coverage Results" MODIFIED="1739269575862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$summer_outfit.coverage" NAME="summer_outfit Coverage Results" MODIFIED="1739657914141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$circle_area_and_perimeter.coverage" NAME="circle_area_and_perimeter Coverage Results" MODIFIED="1739025053806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$invalid_number.coverage" NAME="invalid_number Coverage Results" MODIFIED="1739569027970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$house_painting.coverage" NAME="house_painting Coverage Results" MODIFIED="1738926651128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
