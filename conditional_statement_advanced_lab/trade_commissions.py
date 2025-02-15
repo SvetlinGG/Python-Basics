@@ -7,7 +7,7 @@ trade_commission = 0
 if (city != 'Sofia' or city != 'Varna' or city != 'Plovdiv') and sales < 0:
     print ('error')
 
-trade_commission = 0
+
 
 if city == 'Sofia' and sales <= 500:
     trade_commission = sales * 0.05
