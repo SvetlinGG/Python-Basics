@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional_statement_advanced_exercise/fishing_boat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditional_statement_advanced_exercise/new_house.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditional_statement_advanced_exercise/new_house.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional_statement_advanced_exercise/fishing_boat.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditional_statement_advanced_exercise/fishing_boat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -69,6 +68,7 @@
     "Python.even_or_odd.executor": "Run",
     "Python.excellent_grade.executor": "Run",
     "Python.film_premiere.executor": "Run",
+    "Python.fishing_boat.executor": "Run",
     "Python.fishland.executor": "Run",
     "Python.fishtank.executor": "Run",
     "Python.flower_shop.executor": "Run",
@@ -249,7 +249,7 @@
       <workItem from="1738284473302" duration="10000000" />
       <workItem from="1738366605895" duration="833000" />
       <workItem from="1738367801209" duration="50227000" />
-      <workItem from="1738692972105" duration="135069000" />
+      <workItem from="1738692972105" duration="140701000" />
     </task>
     <servers />
   </component>
@@ -259,6 +259,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Basics$trade_commissions.coverage" NAME="trade_commissions Coverage Results" MODIFIED="1739581425487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1738938658678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$fishing_boat.coverage" NAME="fishing_boat Coverage Results" MODIFIED="1739790037991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$vegetable_market.coverage" NAME="vegetable_market Coverage Results" MODIFIED="1738965918312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$animal_type.coverage" NAME="animal_type Coverage Results" MODIFIED="1739543603844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$pipes_in_pool.coverage" NAME="pipes_in_pool Coverage Results" MODIFIED="1739283899142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
