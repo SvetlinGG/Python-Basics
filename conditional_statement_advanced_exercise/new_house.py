@@ -17,8 +17,6 @@ elif flowers == 'Gladiolus' and flowers_count < 80:
     price = (flowers_count * 2.5) * 1.2
 
 
-
-
 if budget >= price:
     money_left = budget - price
     print(f'Hey, you have a great garden with {flowers_count} {flowers} and {money_left:.2f} leva left.')
