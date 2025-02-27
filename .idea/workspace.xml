@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/for_loop_exercise/oscars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_loop_exercise/trekking_mania.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +122,7 @@
     "Python.traning_hall.executor": "Run",
     "Python.transport_price.executor": "Run",
     "Python.trapezoid.executor": "Run",
+    "Python.trekking_mania.executor": "Run",
     "Python.triangle.executor": "Run",
     "Python.vegetable_market.executor": "Run",
     "Python.vowels_sum.executor": "Run",
@@ -273,7 +274,7 @@
       <workItem from="1738366605895" duration="833000" />
       <workItem from="1738367801209" duration="50227000" />
       <workItem from="1738692972105" duration="190994000" />
-      <workItem from="1740600714251" duration="21840000" />
+      <workItem from="1740600714251" duration="25649000" />
     </task>
     <servers />
   </component>
@@ -303,6 +304,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$left_and_right_sum.coverage" NAME="left_and_right_sum Coverage Results" MODIFIED="1740435086054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$animal_type.coverage" NAME="animal_type Coverage Results" MODIFIED="1739543603844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$vegetable_market.coverage" NAME="vegetable_market Coverage Results" MODIFIED="1738965918312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$trekking_mania.coverage" NAME="trekking_mania Coverage Results" MODIFIED="1740698329524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$pipes_in_pool.coverage" NAME="pipes_in_pool Coverage Results" MODIFIED="1739283899142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$speed_info.coverage" NAME="speed_info Coverage Results" MODIFIED="1738412257560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
     <SUITE FILE_PATH="coverage/Python_Basics$working_hours.coverage" NAME="working_hours Coverage Results" MODIFIED="1739566835522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
