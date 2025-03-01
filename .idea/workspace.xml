@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/while_loop_lab/sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_loop_lab/sequence_2K_plus_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +112,7 @@
     "Python.repainting.executor": "Run",
     "Python.salary.executor": "Run",
     "Python.seconds_sum.executor": "Run",
+    "Python.sequence_2K_plus_1.executor": "Run",
     "Python.serials.executor": "Run",
     "Python.shopping.executor": "Run",
     "Python.sleepy_tom_cat.executor": "Run",
@@ -279,7 +280,7 @@
       <workItem from="1738366605895" duration="833000" />
       <workItem from="1738367801209" duration="50227000" />
       <workItem from="1738692972105" duration="190994000" />
-      <workItem from="1740600714251" duration="52336000" />
+      <workItem from="1740600714251" duration="53287000" />
     </task>
     <servers />
   </component>
@@ -386,6 +387,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$area_of_figures.coverage" NAME="area_of_figures Coverage Results" MODIFIED="1738586983113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
     <SUITE FILE_PATH="coverage/Python_Basics$number_sequence.coverage" NAME="number_sequence Coverage Results" MODIFIED="1740431156256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$sleepy_tom_cat.coverage" NAME="sleepy_tom_cat Coverage Results" MODIFIED="1739320428328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$sequence_2K_plus_1.coverage" NAME="sequence_2K_plus_1 Coverage Results" MODIFIED="1740868564288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$seconds_sum.coverage" NAME="seconds_sum Coverage Results" MODIFIED="1739141289960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$bonus_score.coverage" NAME="bonus_score Coverage Results" MODIFIED="1739144421601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
   </component>
