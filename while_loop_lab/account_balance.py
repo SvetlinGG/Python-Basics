@@ -7,12 +7,14 @@ while True:
     if command == 'NoMoreMoney':
         break
 
-        current_sum = float(command)
+    current_sum = float(command)
 
 
     if current_sum >= 0:
         available_sum += current_sum
-        print(f'Increase: {available_sum:.2f}')
+        print(f'Increase: {current_sum:.2f}')
     else:
         print('Invalid operation!')
+        break
+
 print(f'Total: {available_sum:.2f}')

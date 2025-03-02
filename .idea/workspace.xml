@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/while_loop_lab/account_balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_loop_lab/graduation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_loop_lab/max_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_loop_lab/min_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_loop_lab/account_balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_loop_lab/account_balance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/conditional_statement_advanced_exercise/new_house.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/while_loop_lab/graduation.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.account_balance.executor": "Run",
     "Python.add_bagage.executor": "Run",
     "Python.agency_profit.executor": "Run",
     "Python.animal_type.executor": "Run",
@@ -81,6 +87,7 @@
     "Python.fuel_tank.executor": "Run",
     "Python.fuel_tank_part2.executor": "Run",
     "Python.godzilla_vs_kong.executor": "Run",
+    "Python.graduation.executor": "Run",
     "Python.guess_password.executor": "Run",
     "Python.half_sum_element.executor": "Run",
     "Python.harvest.executor": "Run",
@@ -92,6 +99,8 @@
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
     "Python.lunch_break.executor": "Run",
+    "Python.max_number.executor": "Run",
+    "Python.min_number.executor": "Run",
     "Python.new_house.executor": "Run",
     "Python.number_from_100_to_200.executor": "Run",
     "Python.number_in_range.executor": "Run",
@@ -279,7 +288,7 @@
       <workItem from="1738366605895" duration="833000" />
       <workItem from="1738367801209" duration="50227000" />
       <workItem from="1738692972105" duration="190994000" />
-      <workItem from="1740600714251" duration="54205000" />
+      <workItem from="1740600714251" duration="66590000" />
     </task>
     <servers />
   </component>
@@ -318,6 +327,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1739272964366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$pets.coverage" NAME="pets Coverage Results" MODIFIED="1739399587381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$numbers_from_N_to_one.coverage" NAME="numbers_from_N_to_one Coverage Results" MODIFIED="1740359213370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
+    <SUITE FILE_PATH="coverage/Python_Basics$min_number.coverage" NAME="min_number Coverage Results" MODIFIED="1740922407272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$harvest.coverage" NAME="harvest Coverage Results" MODIFIED="1739395179976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$fishtank.coverage" NAME="fishtank Coverage Results" MODIFIED="1738369118101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$fishland.coverage" NAME="fishland Coverage Results" MODIFIED="1738974771429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
@@ -325,11 +335,13 @@
     <SUITE FILE_PATH="coverage/Python_Basics$half_sum_element.coverage" NAME="half_sum_element Coverage Results" MODIFIED="1740610628467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$fuel_tank_part2.coverage" NAME="fuel_tank_part2 Coverage Results" MODIFIED="1739409619354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$number_from_100_to_200.coverage" NAME="number_from_100_to_200 Coverage Results" MODIFIED="1738410744576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
+    <SUITE FILE_PATH="coverage/Python_Basics$max_number.coverage" NAME="max_number Coverage Results" MODIFIED="1740876419866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$sybirane.coverage" NAME="sybirane Coverage Results" MODIFIED="1739005230039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$numbers_from_one_to_N_by_3.coverage" NAME="numbers_from)one_to_N_by_3 Coverage Results" MODIFIED="1740357897806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$oscars.coverage" NAME="oscars Coverage Results" MODIFIED="1740662463904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$flower_shop.coverage" NAME="flower_shop Coverage Results" MODIFIED="1739401179864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$trapezoid.coverage" NAME="trapezoid Coverage Results" MODIFIED="1738938248047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$graduation.coverage" NAME="graduation Coverage Results" MODIFIED="1740926076492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$new_house.coverage" NAME="new_house Coverage Results" MODIFIED="1739804189587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$add_bagage.coverage" NAME="add_bagage Coverage Results" MODIFIED="1739466425713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basics_Exam" />
     <SUITE FILE_PATH="coverage/Python_Basics$agency_profit.coverage" NAME="agency_profit Coverage Results" MODIFIED="1738587621300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basics_Exam" />
@@ -379,6 +391,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$salary.coverage" NAME="salary Coverage Results" MODIFIED="1740654393874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$fuel_tank.coverage" NAME="fuel_tank Coverage Results" MODIFIED="1739404689326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$even_powers_of_2.coverage" NAME="even_powers_of_2 Coverage Results" MODIFIED="1740428947578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
+    <SUITE FILE_PATH="coverage/Python_Basics$account_balance.coverage" NAME="account_balance Coverage Results" MODIFIED="1740870446171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Untitled$basketball_equipment.coverage" NAME="basketball_equipment Coverage Results" MODIFIED="1738317269606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$lunch_break.coverage" NAME="lunch_break Coverage Results" MODIFIED="1739275147320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$even_or_odd.coverage" NAME="even_or_odd Coverage Results" MODIFIED="1738409111231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
@@ -386,7 +399,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$area_of_figures.coverage" NAME="area_of_figures Coverage Results" MODIFIED="1738586983113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
     <SUITE FILE_PATH="coverage/Python_Basics$number_sequence.coverage" NAME="number_sequence Coverage Results" MODIFIED="1740431156256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$sleepy_tom_cat.coverage" NAME="sleepy_tom_cat Coverage Results" MODIFIED="1739320428328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
-    <SUITE FILE_PATH="coverage/Python_Basics$sequence_2K_plus_1.coverage" NAME="sequence_2K_plus_1 Coverage Results" MODIFIED="1740868564288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
+    <SUITE FILE_PATH="coverage/Python_Basics$sequence_2K_plus_1.coverage" NAME="sequence_2K_plus_1 Coverage Results" MODIFIED="1740870008305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$seconds_sum.coverage" NAME="seconds_sum Coverage Results" MODIFIED="1739141289960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$bonus_score.coverage" NAME="bonus_score Coverage Results" MODIFIED="1739144421601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
   </component>
