@@ -34,6 +34,19 @@ while change:
 
 print(f"{total_coins}")
 
+# change = float(input())
+# change = int(change * 100)
+# coins_count = 0
+#
+# coins = [200, 100, 50, 20, 10, 5, 2, 1]
+#
+# for coin in coins:
+#     while change >= coin:
+#         change -= coin
+#         coins_count += 1
+#
+# print(coins_count)
+
 
 
 
