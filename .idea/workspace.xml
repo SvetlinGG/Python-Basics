@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/while_loop_more_exercise/dishwasher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_loop_more_exercise/dishwasher.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_loop_more_exercise/dishwasher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +300,7 @@
       <workItem from="1740955252149" duration="894000" />
       <workItem from="1740956162658" duration="392000" />
       <workItem from="1740956572224" duration="446000" />
-      <workItem from="1740957029174" duration="26379000" />
+      <workItem from="1740957029174" duration="28304000" />
     </task>
     <servers />
   </component>
@@ -371,7 +371,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$coins.coverage" NAME="coins Coverage Results" MODIFIED="1741037601040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$trade_commissions.coverage" NAME="trade_commissions Coverage Results" MODIFIED="1739581425487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$fishing_boat.coverage" NAME="fishing_boat Coverage Results" MODIFIED="1739792523949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
-    <SUITE FILE_PATH="coverage/Python_Basics$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1741300988846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_more_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1741302889793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$animal_type.coverage" NAME="animal_type Coverage Results" MODIFIED="1739543603844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$left_and_right_sum.coverage" NAME="left_and_right_sum Coverage Results" MODIFIED="1740435086054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$speed_info.coverage" NAME="speed_info Coverage Results" MODIFIED="1738412257560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
