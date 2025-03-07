@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_loop_more_exercise/report_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_loop_more_exercise/report_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_loops_lab/clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_loops_lab/clock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +300,7 @@
       <workItem from="1740955252149" duration="894000" />
       <workItem from="1740956162658" duration="392000" />
       <workItem from="1740956572224" duration="446000" />
-      <workItem from="1740957029174" duration="35978000" />
+      <workItem from="1740957029174" duration="36902000" />
     </task>
     <servers />
   </component>
