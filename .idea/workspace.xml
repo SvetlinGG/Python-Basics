@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nested_loops_lab/sum_of_two_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +307,7 @@
       <workItem from="1740956572224" duration="446000" />
       <workItem from="1740957029174" duration="52060000" />
       <workItem from="1741680535150" duration="8000" />
-      <workItem from="1741680587273" duration="5036000" />
+      <workItem from="1741680587273" duration="6702000" />
     </task>
     <servers />
   </component>
