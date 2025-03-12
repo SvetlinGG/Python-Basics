@@ -7,4 +7,4 @@ for row in range(1, number + 1):
             break
         print(str(current) + " ", end="")
         current += 1
-    print("")
+    print()
