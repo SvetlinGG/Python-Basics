@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nested_loops_exercise/number_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_loops_exercise/equal_sums_even_odd_position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,7 @@
     "Python.combinations.executor": "Run",
     "Python.degrees_to_fahrenheit.executor": "Run",
     "Python.dishwasher.executor": "Run",
+    "Python.equal_sums_even_odd_position.executor": "Run",
     "Python.even_or_odd.executor": "Run",
     "Python.even_powers_of_2.executor": "Run",
     "Python.exam_preparation.executor": "Run",
@@ -309,7 +311,7 @@
       <workItem from="1740956572224" duration="446000" />
       <workItem from="1740957029174" duration="52060000" />
       <workItem from="1741680535150" duration="8000" />
-      <workItem from="1741680587273" duration="24845000" />
+      <workItem from="1741680587273" duration="31636000" />
     </task>
     <servers />
   </component>
@@ -382,7 +384,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$sequence_2K_plus_1.coverage" NAME="sequence_2K_plus_1 Coverage Results" MODIFIED="1740870008305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$coins.coverage" NAME="coins Coverage Results" MODIFIED="1741037601040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$clock.coverage" NAME="clock Coverage Results" MODIFIED="1741680630270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_lab" />
-    <SUITE FILE_PATH="coverage/Python_Basics$number_pyramid.coverage" NAME="number_pyramid Coverage Results" MODIFIED="1741819475023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$number_pyramid.coverage" NAME="number_pyramid Coverage Results" MODIFIED="1741819698372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$trade_commissions.coverage" NAME="trade_commissions Coverage Results" MODIFIED="1739581425487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$fishing_boat.coverage" NAME="fishing_boat Coverage Results" MODIFIED="1739792523949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$dishwasher.coverage" NAME="dishwasher Coverage Results" MODIFIED="1741305052678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_more_exercise" />
@@ -408,6 +410,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$toy_shop.coverage" NAME="toy_shop Coverage Results" MODIFIED="1739215760503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$vowels_sum.coverage" NAME="vowels_sum Coverage Results" MODIFIED="1740427764656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$weather_forecast_2.coverage" NAME="weather_forecast_2 Coverage Results" MODIFIED="1739025940431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
+    <SUITE FILE_PATH="coverage/Python_Basics$equal_sums_even_odd_position.coverage" NAME="equal_sums_even_odd_position Coverage Results" MODIFIED="1741856147848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$hospital.coverage" NAME="hospital Coverage Results" MODIFIED="1740825893628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop_more_exercise" />
     <SUITE FILE_PATH="coverage/Untitled$repainting.coverage" NAME="repainting Coverage Results" MODIFIED="1738285469771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$guess_password.coverage" NAME="guess_password Coverage Results" MODIFIED="1738409578106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statements" />
