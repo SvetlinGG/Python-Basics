@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_loops_exercise/sum_prime_non_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_loops_exercise/sum_prime_non_prime.py" afterDir="false" />
-    </list>
+    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +309,7 @@
       <workItem from="1740956572224" duration="446000" />
       <workItem from="1740957029174" duration="52060000" />
       <workItem from="1741680535150" duration="8000" />
-      <workItem from="1741680587273" duration="42049000" />
+      <workItem from="1741680587273" duration="42625000" />
     </task>
     <servers />
   </component>
