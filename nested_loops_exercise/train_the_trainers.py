@@ -1,32 +1,28 @@
 
+
 juries = int(input())
 
-presentation_grade = 0
-all_presentations = 0
-average_grade = 0
-
-
+total_sum_grades = 0
+total_grades_count = 0
+result = ''
 
 while True:
-    command = input()
-
-    if command == 'Finish':
-        print(f"Student's final assessment is {average_grade}.")
+    presentation_name = input()
+    if presentation_name == 'Finish':
         break
 
+    current_sum_grades = 0
 
-    for juri in range(juries):
+    for _ in range(juries):
         grades = float(input())
-        all_presentations += 1
-        presentation_grade += grades
+        current_sum_grades += grades
 
-    average_grade = presentation_grade / all_presentations
+    total_sum_grades += current_sum_grades
+    total_grades_count += juries
+    result += f"{presentation_name} - {current_sum_grades / juries:.2f}.\n"
+result += f"Student's final assessment is {total_sum_grades / total_grades_count:.2f}."
+print(result)
 
-    presentation_name = input(command)
-    for name in range(presentation_name):
-
-
-    print(f'{average_grade}')
 
 
 

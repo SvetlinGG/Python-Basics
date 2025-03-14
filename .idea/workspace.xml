@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="" />
+    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_loops_exercise/train_the_trainers.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_loops_exercise/train_the_trainers.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,7 +314,7 @@
       <workItem from="1740956572224" duration="446000" />
       <workItem from="1740957029174" duration="52060000" />
       <workItem from="1741680535150" duration="8000" />
-      <workItem from="1741680587273" duration="45985000" />
+      <workItem from="1741680587273" duration="48995000" />
     </task>
     <servers />
   </component>
@@ -368,7 +371,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$number_in_range.coverage" NAME="number_in_range Coverage Results" MODIFIED="1739565745634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$time_plus_15_minutes.coverage" NAME="time_plus_15_minutes Coverage Results" MODIFIED="1739147162910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$basketball_equipment.coverage" NAME="basketball_equipment Coverage Results" MODIFIED="1741680616925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
-    <SUITE FILE_PATH="coverage/Python_Basics$train_the_trainers.coverage" NAME="train_the_trainers Coverage Results" MODIFIED="1741913497384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$train_the_trainers.coverage" NAME="train_the_trainers Coverage Results" MODIFIED="1741985731898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$miving.coverage" NAME="miving Coverage Results" MODIFIED="1741046865904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$moving.coverage" NAME="moving Coverage Results" MODIFIED="1741047524751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$week_day.coverage" NAME="week_day Coverage Results" MODIFIED="1739540248200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
