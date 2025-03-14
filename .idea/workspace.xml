@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nested_loops_exercise/special_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_loops_exercise/cinema_tickets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +139,7 @@
     "Python.shopping.executor": "Run",
     "Python.sleepy_tom_cat.executor": "Run",
     "Python.small_shop.executor": "Run",
+    "Python.special_numbers.executor": "Run",
     "Python.speed_info.executor": "Run",
     "Python.sum_numbers.executor": "Run",
     "Python.sum_of_two_numbers.executor": "Run",
@@ -313,7 +315,7 @@
       <workItem from="1740956572224" duration="446000" />
       <workItem from="1740957029174" duration="52060000" />
       <workItem from="1741680535150" duration="8000" />
-      <workItem from="1741680587273" duration="49757000" />
+      <workItem from="1741680587273" duration="52470000" />
     </task>
     <servers />
   </component>
@@ -426,8 +428,8 @@
     <SUITE FILE_PATH="coverage/Python_Basics$godzilla_vs_kong.coverage" NAME="godzilla_vs_kong Coverage Results" MODIFIED="1739218005010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$weekend_or_working_day.coverage" NAME="weekend_or_working_day Coverage Results" MODIFIED="1739540330654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$exam_preparation.coverage" NAME="exam_preparation Coverage Results" MODIFIED="1740946526173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_exercise" />
-    <SUITE FILE_PATH="coverage/Python_Basics$cinema_tickets.coverage" NAME="cinema_tickets Coverage Results" MODIFIED="1739567283260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$sum_prime_non_prime.coverage" NAME="sum_prime_non_prime Coverage Results" MODIFIED="1741903942746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$cinema_tickets.coverage" NAME="cinema_tickets Coverage Results" MODIFIED="1741989200848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$weather_forecast.coverage" NAME="weather_forecast Coverage Results" MODIFIED="1739019031237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Untitled$food_delivery.coverage" NAME="food_delivery Coverage Results" MODIFIED="1738315355171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$fruit_shop.coverage" NAME="fruit_shop Coverage Results" MODIFIED="1739579763258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
@@ -436,6 +438,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$odd_even_sum.coverage" NAME="odd_even_sum Coverage Results" MODIFIED="1740437373719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$fruit_or_vegetable.coverage" NAME="fruit_or_vegetable Coverage Results" MODIFIED="1739568534108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$transport_price.coverage" NAME="transport_price Coverage Results" MODIFIED="1739398491544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Basics$special_numbers.coverage" NAME="special_numbers Coverage Results" MODIFIED="1741988761558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$personal_titles.coverage" NAME="personal_titles Coverage Results" MODIFIED="1739544355956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$building.coverage" NAME="building Coverage Results" MODIFIED="1741818201541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$fuel_tank.coverage" NAME="fuel_tank Coverage Results" MODIFIED="1739404689326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
