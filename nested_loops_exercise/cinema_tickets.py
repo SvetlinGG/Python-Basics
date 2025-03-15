@@ -27,7 +27,7 @@ while True:
         sold_tickets += 1
 
     total_tickets = student_tickets + standard_tickets + kid_tickets
-    result += f'"{movie_name} - {(sold_tickets / free_places) * 100:.2f}% full.\n'
+    result += f'{movie_name} - {(sold_tickets / free_places) * 100:.2f}% full.\n'
 result += f'Total tickets: {total_tickets}\n'
 result += f"{(student_tickets / total_tickets) * 100:.2f}% student tickets.\n"
 result += f'{(standard_tickets / total_tickets) * 100:.2f}% standard tickets.\n'
