@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exam_preparation/barcode_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -323,7 +320,7 @@
       <workItem from="1741680535150" duration="8000" />
       <workItem from="1741680587273" duration="53359000" />
       <workItem from="1741990305189" duration="1206000" />
-      <workItem from="1741994297248" duration="24755000" />
+      <workItem from="1741994297248" duration="25618000" />
     </task>
     <servers />
   </component>
@@ -416,7 +413,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$min_number.coverage" NAME="min_number Coverage Results" MODIFIED="1740922407272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
     <SUITE FILE_PATH="coverage/Python_Basics$fruit_market.coverage" NAME="fruit_market Coverage Results" MODIFIED="1741998530005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation" />
     <SUITE FILE_PATH="coverage/Python_Basics$fishtank.coverage" NAME="fishtank Coverage Results" MODIFIED="1738369118101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
-    <SUITE FILE_PATH="coverage/Python_Basics$barcode_generator.coverage" NAME="barcode_generator Coverage Results" MODIFIED="1742082279173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation" />
+    <SUITE FILE_PATH="coverage/Python_Basics$barcode_generator.coverage" NAME="barcode_generator Coverage Results" MODIFIED="1742082472596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam_preparation" />
     <SUITE FILE_PATH="coverage/Python_Basics$fishland.coverage" NAME="fishland Coverage Results" MODIFIED="1738974771429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_step_in_coding" />
     <SUITE FILE_PATH="coverage/Python_Basics$fuel_tank_part2.coverage" NAME="fuel_tank_part2 Coverage Results" MODIFIED="1739409619354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$max_number.coverage" NAME="max_number Coverage Results" MODIFIED="1740876419866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while_loop_lab" />
