@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="" />
+    <list default="true" id="2ace9325-26d8-4e58-aec5-cfaf01701328" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exam/christmas_preparation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +71,7 @@
     "Python.building.executor": "Run",
     "Python.cake.executor": "Run",
     "Python.character_sequence.executor": "Run",
+    "Python.christmas_preparation.executor": "Run",
     "Python.cinema.executor": "Run",
     "Python.cinema_tickets.executor": "Run",
     "Python.circle_area_and_perimeter.executor": "Run",
@@ -320,7 +324,7 @@
       <workItem from="1741680535150" duration="8000" />
       <workItem from="1741680587273" duration="53359000" />
       <workItem from="1741990305189" duration="1206000" />
-      <workItem from="1741994297248" duration="25618000" />
+      <workItem from="1741994297248" duration="27338000" />
     </task>
     <servers />
   </component>
@@ -448,6 +452,7 @@
     <SUITE FILE_PATH="coverage/Python_Basics$cinema.coverage" NAME="cinema Coverage Results" MODIFIED="1739616863409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$odd_even_sum.coverage" NAME="odd_even_sum Coverage Results" MODIFIED="1740437373719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_loop" />
     <SUITE FILE_PATH="coverage/Python_Basics$fruit_or_vegetable.coverage" NAME="fruit_or_vegetable Coverage Results" MODIFIED="1739568534108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
+    <SUITE FILE_PATH="coverage/Python_Basics$christmas_preparation.coverage" NAME="christmas_preparation Coverage Results" MODIFIED="1742120667145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exam" />
     <SUITE FILE_PATH="coverage/Python_Basics$transport_price.coverage" NAME="transport_price Coverage Results" MODIFIED="1739398491544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_more_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$special_numbers.coverage" NAME="special_numbers Coverage Results" MODIFIED="1741988761558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_loops_exercise" />
     <SUITE FILE_PATH="coverage/Python_Basics$personal_titles.coverage" NAME="personal_titles Coverage Results" MODIFIED="1739544355956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_statement_advanced_lab" />
